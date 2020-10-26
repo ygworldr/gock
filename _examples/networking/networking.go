@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"gopkg.in/h2non/gock.v1"
+	"github.com/ygworldr/gock.v1"
 )
 
 func main() {

@@ -5,7 +5,7 @@ import (
 
 	"gopkg.in/h2non/gentleman.v1"
 	"gopkg.in/h2non/gentleman.v1/context"
-	"gopkg.in/h2non/gock.v1"
+	"github.com/ygworldr/gock.v1"
 )
 
 // Usege example with gentleman HTTP client toolkit.
